@@ -31,6 +31,12 @@ source("./R/language.R")
 
 ```
 
+- [case 1](https://www.youtube.com/watch?v=nfFtViUXHqU&ab_channel=KemalKosemehmetoglu)
+
+
+{{< video https://www.youtube.com/embed/nfFtViUXHqU >}}
+
+
 
 
 
